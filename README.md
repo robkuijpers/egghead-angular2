@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Angular 2 Lessons
 
 *Angular 2 is in beta and is subject to change.*
@@ -20,3 +21,6 @@ you should be able to host from any basic http server.
 ### Known Issues
 - angular2-polyfills.js is currently being handled manually.
 - bundle size is large, due to inline sourcemaps from angular2 npm source.
+=======
+# egghead-angular2
+>>>>>>> eb87db87f8a1fe56868500ae7ae4ec42b9fc3940
